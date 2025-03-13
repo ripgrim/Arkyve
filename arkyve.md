@@ -1,3 +1,5 @@
+### $6,500
+
 - **Fully custom-coded theme** from the ground up, including:  
     - Product page  
     - Password page  
