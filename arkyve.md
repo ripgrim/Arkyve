@@ -1,3 +1,4 @@
+### $6,500 Package  
 **Features:**  
 - **Fully custom-coded theme** from the ground up, including:  
     - Product page  
